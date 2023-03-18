@@ -22,4 +22,4 @@
       git:
         repo: "https://github.com/prajwal1912/mynew-mono-project.git"
         dest: /var/www/html/
-        version: ""
+        version: "frontend"  
