@@ -6,5 +6,5 @@ tags = {
 Name = "project-instance"
 Enironment = "prod"
 }
-key_name = "my-keypair"
+key_name = "my2nd-keypair"
 }
