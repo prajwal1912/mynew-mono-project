@@ -5,7 +5,7 @@
   connection: ssh
 
   vars:
-    ansible_ssh_private_key_file: "/etc/ansible/my-keypair.pem"
+    ansible_ssh_private_key_file: "/etc/ansible/my2nd-keypair.pem"
     ansible_ssh_user: "ec2-user"
 
   tasks:
